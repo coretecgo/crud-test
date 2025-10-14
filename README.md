@@ -5,7 +5,7 @@
 
 ## Teste para Desenvolvedor Back-end
 
-Seja muito bem-vindo(a), futuro Developer da Adoorei.
+Seja muito bem-vindo(a), futuro Developer da Core TI Expert.
 
 Nós, recrutadores juntamente com a nossa equipe de DEV, desenvolvemos um teste prático para avaliar tecnicamente todos os candidatos que estão participando do nosso processo seletivo para a vaga de Desenvolvimento Back End.
 
