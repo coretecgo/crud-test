@@ -75,19 +75,14 @@ Os endpoints para criação e atualização devem seguir o  formato do payload a
 - Buscar um produto pelo seu ID.
 
 ##### Importação de produtos de uma API externa
-Crie um comando que buscará produtos numa API externa e armazenará todos os resultados dentro de sua base de dados. Essa aplicação é necessária para que o sistema consiga importar produtos que estão em outro serviço. Sugerimos criar um comando artisan como abaixo:
+Crie um comando que buscará produtos numa API externa e armazenará todos os resultados dentro de sua base de dados. Essa aplicação é necessária para que o sistema consiga importar produtos que estão em outro serviço. Sugerimos criar um comando docker como abaixo:
 
-`php artisan products:import`
-
-Esse comando deverá ter uma opção de importar um único produto da API externa, que será encontrado através de um ID externo.
-
-`php artisan products:import --id=123`
+`docker compose import-produtos`
 
 Utilize a seguinte API para importar os produtos: https://fakestoreapi.com/docs
 
 
 ------------
-
 
 
 É isso!. Ficamos muito felizes com a sua aplicação para esse Teste. Estamos à sua disposição para tirar qualquer dúvida. Boa sorte! 😉
