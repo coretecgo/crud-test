@@ -33,6 +33,8 @@ $ docker compose up -d
 
 A aplicação deve rodar acessando localhost:8000 no seu navegador para visualizar a aplicação.
 
+Ao finalizar, compact sua aplicação e envie para o e-mail selecao@coretiexpert.com.br com o assunto: "[DEV] Teste para Backend"
+
 ## Funcionalidades a serem implementadas.
 Neste teste, seu objetivo será desenvolver uma API REST.  Por tanto você deverá focar em construir apenas uma API, não se preocupe com a parte visual ou outras coisas que não sejam pertinentes.
 
